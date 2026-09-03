@@ -1,6 +1,5 @@
 Dalvik/2.1.0 (Linux; U; Android 9; NX809J Build/PI)
-
-#EXTM3U x-tvg-url=https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/peru2.xml,https://www.open-epg.com/files/peru3.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml
+#EXTM3U
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 #PLAYLIST: CABLE RED HYO 
